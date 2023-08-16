@@ -6,6 +6,12 @@ User authentication base code that uses hashing and salt and doesn't send any se
 
 
 ## Technologies:
+- MERN
+- HTML
+- Javascript
+- MongoDB
+- Nodejs
+  
     
 ## Project Description:
 The login system passwords are hashed with salt on the server end. Bare-bones authentication system.
